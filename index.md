@@ -6,3 +6,9 @@
 ``` python
 myVar = "Hello, world!";
 ```
+
+- [x] Heading Added
+- [x] Image Added
+- [x] Code Added
+- [x] Task List Added
+- [ ] Table Added 
